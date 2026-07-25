@@ -187,8 +187,8 @@ const Game = {
   },
 
   // Speed multiplier progression: adjusted for smooth playability
-  speedMultiplierMin: 1.0,
-  speedMultiplierMax: 2.5,       // Max 2.5x speed cap
+  speedMultiplierMin: 1.4,
+  speedMultiplierMax: 4.0,       // Max 2.5x speed cap
   speedMultiplierStep: 0.25,     // Increases smoothly by 15% every 5 points
   speedMultiplierStepScore: 5,  // bump the step every N points
 
