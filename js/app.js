@@ -12,7 +12,7 @@ const UI = {
     document.getElementById(id).classList.add("active");
   },
 
-  // ---------- Opening screen ----------
+  // ---------- Opening screen -----------
   goToOpening() {
     this.showScreen("screen-opening");
   },
